@@ -26,4 +26,3 @@
 # IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 allow hal_sensors_default vendor_qvrd_vndr:fd use;
-allow hal_sensors_default proc_proximity_ts:file rw_file_perms;
